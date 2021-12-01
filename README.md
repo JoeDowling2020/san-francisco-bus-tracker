@@ -1,27 +1,31 @@
-# SanFranciscoBusTracker
+<h1>511 San Francisco Bay Bus Tracker</h1>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.3.
+<h2>Problem Statement</h2>
 
-## Development server
+<p>
+Use the San Francisco open API to create a web app that shows busses on a map.
+You can use any mapping platform you want, such as google maps, mapbox, open
+streetmaps, etc. Users should be able to filter to a specific bus line. Feel
+free to add additional features you think would be cool. Please use a modern UI
+framework for this. Angular would be perfect, but I’d also accept react or vue
+or anything else that strikes your fancy.
+</p>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+<h2>Project Technologies</h2>
+<ul>
+<li>Angular</li>
+<li>San Francisco open API</li>
+<li>Google maps | Map box</li>
+</ul>
 
-## Code scaffolding
+<h2>Design</h2>
+<ul>
+<li><a href="designDocs/userStories.md">User Stories</a></li>
+<li><a href="designDocs/wireFrames">Wire Frames</a></li>
+</ul>
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+<h2>Project Plan</h2>
+<ul>
+<li>Demo Video</li>
+<li>Reflections Log</li>
+</ul>
